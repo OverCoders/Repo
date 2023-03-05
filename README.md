@@ -1,2 +1,2 @@
-# Repos
-Just a repos
+# Repo
+Just a repo
